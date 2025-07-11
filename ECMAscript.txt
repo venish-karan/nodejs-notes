@@ -1,0 +1,30 @@
+Ecma International:
+  1. In Nov 1996, Netscape submitted JavaScript to Ecma International
+  2. It is an industry association dedicated to the standardization of information and
+     communication systems
+  3. Netscape wanted a standard specification that all browser vendors could conform
+     to as it would help keep other implementations consistent across browsers
+  4. For each new specification Ecma provides a standard specification and a
+     committee
+  5. In case of JavaScript, the standard is called ECMA-262 and the committee that
+     works on ECMA-262 is called Technical Committee 39 (TC39)
+  6. Ecma however decided to use the term "ECMAScript" to talk about the official
+     language
+  7. The reason for this is because Oracle (who acquired Microsystems) owns the
+     trademark for the term "JavaScript"
+  8. ECMAScript refers to the standard language whereas JavaScript is what we use
+     in practice and builds on top of ECMAScript
+
+ECMAScript versions:
+  1997 - ECMAScript 1
+  1998 - ECMAScript 2
+  1999 - ECMAScript 3
+  ECMAScript 4 never released
+  2009 - ECMAScript 5
+  2015 - ECMAScript 2015 (ES6)
+  One version every year since 2015
+
+ECMAScript Summary:
+  ECMA-262 is the language specification
+  ECMAScript is the language that implements ECMA-262
+  JavaScript is basically ECMAScript at its core but builds on top of that
