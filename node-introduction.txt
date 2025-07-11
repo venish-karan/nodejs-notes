@@ -1,0 +1,14 @@
+What is Node.js?
+  - Node.js is an open-source, cross-platform JavaScript runtime environment
+  - Open source - source code is publicly available for sharing and modification
+  - Cross platform - Available on Mac, Windows and Linux
+  - JavaScript runtime environment 
+
+Course structure
+  - Terms and concepts to understand what is Node.js
+  - Modules (User defined)
+  - Built-in modules
+  - Node.js internals
+  - npm - Node package manager
+  - CLI tool
+  - Misc
