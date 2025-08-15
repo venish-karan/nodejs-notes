@@ -31,10 +31,10 @@ The differences between JavaScript and JScript made it difficult for developers 
 
 # ECMAScript versions
 
-1997 - ECMAScript 1
-1998 - ECMAScript 2
-1999 - ECMAScript 3
-ECMAScript 4 never released
-2009 - ECMAScript 5
-2015 - ECMAScript 2015 (ES6)
-One version every year since 2015
+1. 1997 - ECMAScript 1
+2. 1998 - ECMAScript 2
+3. 1999 - ECMAScript 3
+4. ECMAScript 4 never released
+5. 2009 - ECMAScript 5
+6. 2015 - ECMAScript 2015 (ES6)
+7. One version every year since 2015
