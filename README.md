@@ -1,11 +1,14 @@
-# everyday-activity
-10-07-2025
-1. Restful API, fireship video
-2. Node.js (codeevolution)
-     - Introduction
-     - ECMAscript
-     - Chrome's v8 engine
-11-07-2025
-1. Node.js (codeevolution)
-     - Javascript Runtime
-     - What is Node.js
+# Overview of the content
+1. Restful API. (Fireship video)
+
+Code evolution
+2. Nodejs introduction
+     - Why learn Node.js ?
+     - What is Node.js ?
+     - Course structure
+3. ECMAScript
+     - Summary
+     - Going back in time...
+     - The Advent of Microsoft
+     - Ecma International
+     - ECMAScript versions
